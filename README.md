@@ -16,7 +16,7 @@ This project is a simple, responsive calculator implemented using HTML, CSS, and
 
 ## Demo
 
-You can view a live demo of the calculator [here](https://yourusername.github.io/basic-calculator).
+You can view a live demo of the calculator [here]([https://yourusername.github.io/basic-calculator](https://github.com/Lohithl98/CODSOFT-basic-calculator-level-1-task-1.git)).
 
 ## Technologies Used
 
