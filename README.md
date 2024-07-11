@@ -11,7 +11,6 @@ This project is a simple, responsive calculator implemented using HTML, CSS, and
 
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear entry (CE) and clear all (AC) functions.
-- Responsive design that adapts to different screen sizes.
 - User-friendly interface with styled buttons and display.
   
 ## Demo
