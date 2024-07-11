@@ -14,18 +14,8 @@ This project is a simple, responsive calculator implemented using HTML, CSS, and
 - Responsive design that adapts to different screen sizes.
 - User-friendly interface with styled buttons and display.
 
-## Demo
-
-You can view a live demo of the calculator [here](https://yourusername.github.io/basic-calculator](https://github.com/Lohithl98/CODSOFT-basic-calculator-level-1-task-1.git)).
-
 ## Technologies Used
 
 - **HTML**: Structure of the calculator interface.
 - **CSS**: Styling for the calculator layout and buttons.
 - **JavaScript**: Logic for calculator operations and user interactions.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/basic-calculator.git
