@@ -5,7 +5,8 @@ In this Repository contain coding of basic calculator using HTML , CSS  and JAVA
 
 This project is a simple, responsive calculator implemented using HTML, CSS, and JavaScript.
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](https://github.com/user-attachments/assets/0932d96a-6a61-4101-8050-564049d136e2)
+
 
 ## Features
 
